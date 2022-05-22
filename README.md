@@ -30,13 +30,14 @@
   - Khi độ bền của viên gạch về 0 thì nó sẽ bị phá hủy
   - Số bóng có thể được tăng thêm bằng cách bắn trúng các hạt màu xanh
   - Không bao giờ để các viên gạch chạm đáy hoặc trò chơi sẽ kết thúc
+
   Cơ cấu trò chơi là vô tận, số bóng và độ bền của những viên gạch tăng dần theo từng màn và mật độ xuất hiện của viên gạch ngày càng tăng lên
 
 ## Chức năng đã cài đặt
   > Demo
   > dsda
   - Màn hình đầu của game chứa các chức năng setting, highscore và những quả bóng màu sắc khác nhau có thể thay đổi tùy ý
-    - Trong setting mọi người có thể tắt, bật nhạc của game và có thể xóa dữ liệu về bảng xếp hạng highscore
+    - Trong setting người chơi có thể tắt, bật nhạc của game và có thể xóa dữ liệu về bảng xếp hạng highscore
     - Trong highscore lưu danh sách những lượt chơi có điểm số cao nhất
   - Màn hình chính của game là nơi để chơi game với tính điểm số người chơi, ngoài ra người chơi có thể tạm dừng game, chơi lại ván mới, trở về màn hình đầu tiên hoặc tắt bật âm thanh tùy ý
   - Khi những viên gạch chạm đáy trò chơi kết thúc, người chơi có thể lưu lại tên và xem điểm số của mình xếp hạng bao nhiêu
