@@ -25,12 +25,12 @@
   ```
 ## Mô tả chung
   Game tập trung vào việc phá vỡ các viên gạch với cách chơi:
-  - Giữ màn hình bằng chuột của bạn và di chuyển để nhắm mục tiêu
+  - Người chơi giữ và di chuyển chuột để nhắm mục tiêu
   - Tìm vị trí và góc tốt nhất để đánh tất cả các viên gạch
-  - Khi độ bền của gạch về 0 thì bị phá hủy
+  - Khi độ bền của viên gạch về 0 thì nó sẽ bị phá hủy
   - Số bóng có thể được tăng thêm bằng cách bắn trúng các hạt màu xanh
-  - Không bao giờ để gạch chạm đáy hoặc trò chơi kết thúc
-  Cơ cấu trò chơi là vô tận, số bóng và độ bền của nhưng viên gạch tăng dần theo từng màn và mật độ xuất hiện của viên gạch ngày càng tăng lên
+  - Không bao giờ để các viên gạch chạm đáy hoặc trò chơi sẽ kết thúc
+  Cơ cấu trò chơi là vô tận, số bóng và độ bền của những viên gạch tăng dần theo từng màn và mật độ xuất hiện của viên gạch ngày càng tăng lên
 
 ## Chức năng đã cài đặt
   > Demo
@@ -39,14 +39,14 @@
     - Trong setting mọi người có thể tắt, bật nhạc của game và có thể xóa dữ liệu về bảng xếp hạng highscore
     - Trong highscore lưu danh sách những lượt chơi có điểm số cao nhất
   - Màn hình chính của game là nơi để chơi game với tính điểm số người chơi, ngoài ra người chơi có thể tạm dừng game, chơi lại ván mới, trở về màn hình đầu tiên hoặc tắt bật âm thanh tùy ý
-  - Khi những viên gạch chạm đáy trò chơi kết thúc, người chơi có thể lưu lại tên và xem điểm số của mình xếp hạng bao nhiêu.
+  - Khi những viên gạch chạm đáy trò chơi kết thúc, người chơi có thể lưu lại tên và xem điểm số của mình xếp hạng bao nhiêu
 
 ## Kĩ thuật sử dụng
   - Các kĩ thuật sử dụng với SDL2
     - .
 
 ## Hướng phát triển
-  - Sau này em sẽ phát triển game này bằng cách mở rộng khung game để update thêm nhiều tính năng mới giúp game trở nên đa dạng hơn và tạo bảng xếp hạng cho nhiều người chơi từ nhiều máy khác nhau để có thể chơi cùng, cạnh tranh điểm số với bạn bè:
+  - Sau này em sẽ phát triển game này bằng cách mở rộng khung game để update thêm nhiều tính năng mới giúp game trở nên đa dạng hơn và tạo bảng xếp hạng cho nhiều người chơi từ nhiều máy khác nhau để có thể chơi cùng, cạnh tranh điểm số với bạn bè
   - Hình minh họa
   ![Final](https://user-images.githubusercontent.com/100523403/169688574-8611b10d-33f8-4f25-a07e-4e62af7b4532.png)
   - Về chức năng có lợi cho người chơi:
