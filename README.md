@@ -47,7 +47,7 @@
     - .
 
 ## Hướng phát triển
-  - Sau này em sẽ phát triển game này bằng cách mở rộng khung game để update thêm nhiều tính năng mới giúp game trở nên đa dạng hơn và tạo bảng xếp hạng cho nhiều người chơi từ nhiều máy khác nhau để có thể chơi cùng, cạnh tranh điểm số với bạn bè
+  - Sau này em sẽ phát triển game bằng cách mở rộng khung game để update thêm nhiều tính năng mới giúp game trở nên đa dạng hơn và tạo bảng xếp hạng cho nhiều người chơi từ nhiều máy khác nhau để có thể chơi cùng, cạnh tranh điểm số với bạn bè
   - Hình minh họa
   ![Final](https://user-images.githubusercontent.com/100523403/169688574-8611b10d-33f8-4f25-a07e-4e62af7b4532.png)
   - Về chức năng có lợi cho người chơi:
