@@ -1,0 +1,237 @@
+# depslib dependency file v1.0
+1651462303 source:d:\project game\gameengine.cpp
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<stdio.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<bits/stdc++.h>
+	"Object.h"
+	"audiomanager.cpp"
+	"about.cpp"
+	"highscore.cpp"
+	"firstmenu.cpp"
+	"settingsmenu.cpp"
+	"game.cpp"
+	"lastmenu.cpp"
+	"scoreboard.cpp"
+
+1651461693 d:\project game\headers\object.h
+
+1651481074 d:\project game\audiomanager.cpp
+	<SDL_mixer.h>
+	<iostream>
+
+1651481203 d:\project game\about.cpp
+	<SDL.h>
+	"Object.h"
+
+1651481203 d:\project game\highscore.cpp
+	<fstream>
+	<string.h>
+	<iostream>
+
+1651502640 d:\project game\firstmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1651480925 d:\project game\settingsmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1651480835 d:\project game\game.cpp
+	<SDL.h>
+	"Object.h"
+
+1651480887 d:\project game\lastmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1651480906 d:\project game\scoreboard.cpp
+	<SDL.h>
+	"Object.h"
+
+1651482039 d:\project game\object.h
+	<string.h>
+
+1652354825 source:d:\project game - copy\gameengine.cpp
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<stdio.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+	"Object.h"
+	"audiomanager.cpp"
+	"highscore.cpp"
+	"firstmenu.cpp"
+	"settingsmenu.cpp"
+	"game.cpp"
+	"lastmenu.cpp"
+	"scoreboard.cpp"
+
+1651941407 d:\project game - copy\object.h
+	<string.h>
+
+1652797495 d:\project game - copy\audiomanager.cpp
+	<SDL_mixer.h>
+	<iostream>
+
+1651481203 d:\project game - copy\about.cpp
+	<SDL.h>
+	"Object.h"
+
+1652024597 d:\project game - copy\highscore.cpp
+	<fstream>
+	<string.h>
+	<iostream>
+
+1652693045 d:\project game - copy\firstmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1652256951 d:\project game - copy\settingsmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1652798590 d:\project game - copy\game.cpp
+	<SDL.h>
+	"Object.h"
+
+1652266531 d:\project game - copy\lastmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1652760516 d:\project game - copy\scoreboard.cpp
+	<SDL.h>
+	"Object.h"
+
+1652866262 source:d:\project game - final\gameengine.cpp
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<stdio.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+	"Object.h"
+	"audiomanager.cpp"
+	"highscore.cpp"
+	"firstmenu.cpp"
+	"settingsmenu.cpp"
+	"game.cpp"
+	"lastmenu.cpp"
+	"scoreboard.cpp"
+
+1651941407 d:\project game - final\object.h
+	<string.h>
+
+1652866209 d:\project game - final\audiomanager.cpp
+	<SDL_mixer.h>
+	<iostream>
+
+1652024597 d:\project game - final\highscore.cpp
+	<fstream>
+	<string.h>
+	<iostream>
+
+1652803638 d:\project game - final\firstmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1652804167 d:\project game - final\settingsmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1652803743 d:\project game - final\game.cpp
+	<SDL.h>
+	"Object.h"
+
+1652266531 d:\project game - final\lastmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1652866625 d:\project game - final\scoreboard.cpp
+	<SDL.h>
+	"Object.h"
+
+1652866262 source:c:\users\tungd\desktop\project game - final\gameengine.cpp
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<stdio.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+	"Object.h"
+	"audiomanager.cpp"
+	"highscore.cpp"
+	"firstmenu.cpp"
+	"settingsmenu.cpp"
+	"game.cpp"
+	"lastmenu.cpp"
+	"scoreboard.cpp"
+
+1651941407 c:\users\tungd\desktop\project game - final\object.h
+	<string.h>
+
+1653103599 c:\users\tungd\desktop\project game - final\audiomanager.cpp
+	<SDL_mixer.h>
+	<iostream>
+
+1652024597 c:\users\tungd\desktop\project game - final\highscore.cpp
+	<fstream>
+	<string.h>
+	<iostream>
+
+1653018673 c:\users\tungd\desktop\project game - final\firstmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1652804167 c:\users\tungd\desktop\project game - final\settingsmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1652889340 c:\users\tungd\desktop\project game - final\game.cpp
+	<SDL.h>
+	"Object.h"
+
+1652266531 c:\users\tungd\desktop\project game - final\lastmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1653018852 c:\users\tungd\desktop\project game - final\scoreboard.cpp
+	<SDL.h>
+	"Object.h"
+
