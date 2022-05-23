@@ -20,7 +20,7 @@
   ### Tải và chạy game
   Tải project (Download as zip) về máy hoặc dùng git
   ```
-  git-clone https://github.com/Truong-Quang-Dat/BrickGame
+  git clone https://github.com/Truong-Quang-Dat/BrickGame
   ```
 ## Mô tả chung
   Game tập trung vào việc phá vỡ các viên gạch với cách chơi:
