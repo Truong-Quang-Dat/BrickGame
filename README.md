@@ -70,7 +70,7 @@
     - Với icon -5 sẽ trừ đi 5 quả bóng của người chơi khi chạm nó (Hình 3)
 
 ## Kết luận
-  > Sau quá trình làm game em đã tiếp thu được những kiến thức mới về SDL2 và các kĩ thuật lập trình mới, cách để trình bày code sạch đẹp dễ hiểu. Lần đầu tự mình làm một dự án là một trải nghiệm mới thực sự thú vị, nó đã giúp nâng cao kĩ năng lập trình lên đáng kể. Khi code xong game này em đã rút ra được chỉ cần hiểu rõ, nắm chắc nền tảng về SDL2 cùng với sự sáng tạo thì có thể tự tạo ra được con game hoàn thiện, ưng ý nhất. Mặc dù đây chỉ mới là dự án nhỏ nhưng nó sẽ là bước đầu để hướng tới những dự án lớn hơn trong tương lai và để trở thành một lập trình viên giỏi.
+  > Sau quá trình làm game em đã tiếp thu được những kiến thức mới về SDL2 và các kĩ thuật lập trình mới, cách để trình bày code sạch đẹp dễ hiểu. Lần đầu tự mình làm một dự án là một trải nghiệm mới thực sự thú vị, nó đã giúp nâng cao kĩ năng lập trình lên đáng kể. Khi code xong game này em đã rút ra được chỉ cần hiểu rõ, nắm chắc nền tảng về SDL2 cùng với sự sáng tạo thì có thể tự tạo ra được con game hoàn thiện, ưng ý nhất. Mặc dù đây chỉ mới là dự án nhỏ nhưng nó sẽ là bước đầu để hướng tới những dự án lớn hơn trong tương lai và để trở thành một lập trình viên xuất sắc.
 
 [Về đầu trang](#brickgame)
 
