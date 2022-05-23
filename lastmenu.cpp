@@ -101,7 +101,7 @@ void input_lm() {
   SDL_RenderPresent(ren_lm);
 }
 void lastmenu() {
-  //stopaudio();
+  stopaudio();
   if (ifend) {
     reset_game(false);
   }

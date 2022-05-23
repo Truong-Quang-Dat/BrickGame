@@ -235,3 +235,59 @@
 	<SDL.h>
 	"Object.h"
 
+1653315792 source:c:\users\tungd\documents\github\brickgame\gameengine.cpp
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL.h>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<stdio.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+	"Object.h"
+	"audiomanager.cpp"
+	"highscore.cpp"
+	"firstmenu.cpp"
+	"settingsmenu.cpp"
+	"game.cpp"
+	"lastmenu.cpp"
+	"scoreboard.cpp"
+
+1653315792 c:\users\tungd\documents\github\brickgame\object.h
+	<string.h>
+
+1653315792 c:\users\tungd\documents\github\brickgame\audiomanager.cpp
+	<SDL_mixer.h>
+	<iostream>
+
+1653315793 c:\users\tungd\documents\github\brickgame\highscore.cpp
+	<fstream>
+	<string.h>
+	<iostream>
+
+1653315793 c:\users\tungd\documents\github\brickgame\firstmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1653315793 c:\users\tungd\documents\github\brickgame\settingsmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1653315793 c:\users\tungd\documents\github\brickgame\game.cpp
+	<SDL.h>
+	"Object.h"
+
+1653315968 c:\users\tungd\documents\github\brickgame\lastmenu.cpp
+	<SDL.h>
+	"Object.h"
+
+1653315793 c:\users\tungd\documents\github\brickgame\scoreboard.cpp
+	<SDL.h>
+	"Object.h"
+
