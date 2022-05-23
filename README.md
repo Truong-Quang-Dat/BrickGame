@@ -57,7 +57,7 @@
   - Về các chướng ngại vật:
     - Các viên gạch màu đen hút hết bóng khi chạm nó (Hình 1), viên gạch màu trắng chỉ cản trở những quả bóng (Hình 4), những viên này chỉ biến mất khi nó chạm tới đáy và không gây kết thúc trò chơi
     - Những viên gạch mới có hình dạng tam giác khiến người chơi khó xác định được hướng bóng bay hơn (Hình 2)
-    - Có icon -5 sẽ trừ đi 5 quả bóng của người chơi khi chạm nó (Hình 3)
+    - Với icon -5 sẽ trừ đi 5 quả bóng của người chơi khi chạm nó (Hình 3)
 
 ## Kết luận
   > ádsadadas
