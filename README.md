@@ -15,7 +15,7 @@
 # Nội dung
 
 ## Hướng dẫn cài đặt
-  Project 
+  Project sử dụng codeblock trên windows
   ### Yêu cầu
   - Cài đặt SDL2, SDL2_image, SDL2_ttf và SDL2_mixer
   ### Tải và chạy game
@@ -35,7 +35,7 @@
 
 ## Chức năng đã cài đặt
   > Demo
-  > dsda
+  > [link video demo](https://www.youtube.com/watch?v=tUUhsahg2F0)
   - Màn hình đầu của game chứa các chức năng setting, highscore và những quả bóng màu sắc khác nhau có thể thay đổi tùy ý
     - Trong setting người chơi có thể tắt, bật nhạc của game và có thể xóa dữ liệu về bảng xếp hạng highscore
     - Trong highscore lưu danh sách những lượt chơi có điểm số cao nhất
