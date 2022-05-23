@@ -9,7 +9,6 @@
    4. [Kĩ thuật sử dụng](#kĩ-thuật-sử-dụng)
    5. [Hướng phát triển](#hướng-phát-triển)
    6. [Kết luận](#kết-luận)
-   7. [Link Demo](>Demo)
 
 ---
 # Nội dung
