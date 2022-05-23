@@ -43,7 +43,17 @@
 
 ## Kĩ thuật sử dụng
   - Các kĩ thuật sử dụng với SDL2
-    - .
+    - Xử lí va chạm
+    - Xử lí các hình ảnh, icon
+    - Xử lí sự kiện từ chuột và bàn phím
+    - Kĩ thuật render chữ
+    - Xử lí âm thanh
+    - Xử lí tốc độ fps khung hình
+    - Vẽ đồ họa game
+  - Các kĩ thuật lập trình
+    - Sử dụng mảng vector
+    - Kĩ thuật đọc, ghi file
+    - Sử dụng class cho các vật thể trong game
 
 ## Hướng phát triển
   - Sau này em sẽ phát triển game bằng cách mở rộng khung game để update thêm nhiều tính năng mới giúp game trở nên đa dạng hơn và tạo bảng xếp hạng cho nhiều người chơi từ nhiều máy khác nhau để có thể chơi cùng, cạnh tranh điểm số với bạn bè
@@ -60,7 +70,7 @@
     - Với icon -5 sẽ trừ đi 5 quả bóng của người chơi khi chạm nó (Hình 3)
 
 ## Kết luận
-  > ádsadadas
+  > Sau quá trình làm game em đã tiếp thu được những kiến thức mới về SDL2 và các kĩ thuật lập trình mới, cách để trình bày code sạch đẹp dễ hiểu. Lần đầu tự mình làm một dự án là một trải nghiệm mới thực sự thú vị, nó đã giúp nâng cao kĩ năng lập trình lên đáng kể. Khi code xong game này em đã rút ra được chỉ cần hiểu rõ, nắm chắc nền tảng về SDL2 cùng với sự sáng tạo thì có thể tự tạo ra được con game hoàn thiện, ưng ý nhất. Mặc dù đây chỉ mới là dự án nhỏ nhưng nó sẽ là bước đầu để hướng tới những dự án lớn hơn trong tương lai và để trở thành một lập trình viên giỏi.
 
 [Về đầu trang](#brickgame)
 
